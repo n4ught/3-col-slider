@@ -87,7 +87,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -100,7 +100,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Contents.</h3>
 								</div>
 
 							</li>
@@ -113,7 +113,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -126,7 +126,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -139,7 +139,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -152,7 +152,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -165,7 +165,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -178,7 +178,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -191,7 +191,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -204,7 +204,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -217,7 +217,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -230,7 +230,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -243,7 +243,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9 col-xs-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -275,7 +275,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -288,7 +288,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -301,7 +301,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>
@@ -314,7 +314,7 @@
 									<img src="<?php echo get_bloginfo('template_directory'); ?>/assets/images/calendar.png" class="cal-image"/>
 								</div>
 								<div class="col-md-9">
-									<h3 class="">I am the header</h3>
+									<h3 class="">Your Content.</h3>
 								</div>
 
 							</li>

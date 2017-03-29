@@ -1,148 +1,10 @@
 
-
-/* Extra Small Devices, Phones */ 
-@media only screen and (min-width : 320px) {
-
-	.event-picks-header h3,
-	.trending-events-header h3{
-		font-size: 16px;
-		margin-left: 15px;
-	}
-
-	.event-picks-container{
-		margin-bottom: 20px;
-	}
-
-	.trending-events-list, 
-	.upcoming-events-list{
-		list-style-type: none;
-
-	}
-
-	/* The image inside the <li> */
-	.cal-image{
-		height: 52px;
-		width: 52px;
-		padding: 0;
-	}
-
-	.trending-events-container, 
-	.upcoming-events-container{
-		margin: 0;
-		padding: 0;
-		height: 293px;
-		border: 1px solid black;
-		/* To allow scroll but hide scroll bar. */
-		/*height: 100%;*/
-	    width: 100%;
-	    overflow: hidden;
-	}
-
-	.trending-events-list, 
-	.upcoming-events-list{
-		margin: 0;
-		padding: 0;
-		/* To allow scroll but hide scroll bar. */
-		width: 105%;
-	    height: 100%;
-	    overflow-y: scroll;
-	    padding-right: 10px;
-	}
-
-	/* Remove navbar-default color */
-	.navbar-default{
-		background-color: transparent;
-		border: none;
-	}
-	
-
-}
-
-
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px) {
 
 .container{
 	height: 1500px;
 }
-
-/* === The header with the navigation === */
-
-.logo{
-	width: 50px;
-}
-.logo-shrink{
-	width: 35px;
-}
-#masthead{
-	border-bottom: 1px solid #cccccc;
-	padding: 6px 5%;
-}
-.site-header{
-	display: table;
-	width: 100%;
-}
-.header-fixed{
-	position: fixed;
-	-webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
-    transition: all 1s ease;
-}
-.site-branding{
-	display: table-cell;
-	padding: 0 5%;
-	width: 6%;
-}
-.main-navigation{
-	display: table-cell;
-  	vertical-align: middle;
-  	text-align: right;
-  	padding-left: 30px;
-}
-.menu ul li{
-	display: inline;
-	list-style: none;
-}
-.menu ul li a{
-	padding: 10px 20px;
-}
-
-/* === navigation with logo === */
-
-
-/* Nav -- TEst*/
-
-.branding-col, .navigation-col{
-	margin: 10px 0;
-}
-
-/* === Row with search box === */
-
-.search-row{
-	text-align: center;
-}
-
-.search-form{
-	margin: 50px auto 0 auto;
-}
-
-.search-form .search-field{
-	height: 40px;
-	width: 250px;
-}
-
-.search-button{
-	background: #3EB54B;
-	border: none;
-	border-radius: 5px;
-	color: white;
-	font-weight: bold;
-	height: 40px;
-	width: 80px;
-}
-
-/* === Row with search box === */
 
 
 /* === Event Picks Carousel === */
@@ -198,6 +60,7 @@
 /* The unordered list that contains the events */
 .trending-events-list, 
 .upcoming-events-list{
+	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	/* To allow scroll but hide scroll bar. */
@@ -252,6 +115,13 @@
 	padding: 0;
 	font-size: 17px;
 	text-transform: uppercase;
+}
+
+/* The image inside the <li> */
+.cal-image{
+	height: 52px;
+	width: 52px;
+	padding: 0;
 }
 
 /* Some of these styles are for elements that
@@ -313,6 +183,8 @@
 	color: inherit;
 	text-decoration: none;
 }
+
+
 
 /* === trending events carousel === */
 }
